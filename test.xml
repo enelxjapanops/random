@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Response>
+    <Gather>
+        <Say language="ja-JP" voice="Polly.Mizuki">おはようございます。デマンドレスポンスが発動されました。ピーという発信音のあとに、１とシャープを押してください。</Say>
+        <Play>https://github.com/enelxjapanops/random/blob/main/censor_beep.mp3</Play>
+    </Gather>
+    <Say language="ja-JP" voice="Polly.Mizuki">ご協力ありがとうございました。</Say>
+</Response>
